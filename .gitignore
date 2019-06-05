@@ -6,6 +6,6 @@
 .idea
 npm-debug.log
 
-dist
+#dist
 node_modules
 coverage
